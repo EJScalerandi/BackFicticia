@@ -1,0 +1,6 @@
+@FicticiaApi_HostAddress = http://localhost:5031
+
+GET {{FicticiaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

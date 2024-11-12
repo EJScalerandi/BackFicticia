@@ -1,0 +1,224 @@
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\appsettings.json
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\FicticiaApi.exe
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\FicticiaApi.deps.json
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\FicticiaApi.runtimeconfig.json
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\FicticiaApi.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\FicticiaApi.pdb
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Npgsql.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\FicticiaApi.csproj.AssemblyReference.cache
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\FicticiaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\FicticiaApi.AssemblyInfoInputs.cache
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\FicticiaApi.AssemblyInfo.cs
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\FicticiaApi.csproj.CoreCompileInputs.cache
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\FicticiaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\FicticiaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\FicticiaApi.sourcelink.json
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\staticwebassets\msbuild.FicticiaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FicticiaApi.props
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FicticiaApi.props
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FicticiaApi.props
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\scopedcss\bundle\FicticiaApi.styles.css
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\Ficticia.D7BEBE09.Up2Date
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\FicticiaApi.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\refint\FicticiaApi.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\FicticiaApi.pdb
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\FicticiaApi.genruntimeconfig.cache
+C:\Users\teten\OneDrive\Escritorio\Programación\Prueba Técnica\FicticiaApi\obj\Debug\net8.0\ref\FicticiaApi.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\appsettings.json
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\FicticiaApi.exe
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\FicticiaApi.deps.json
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\FicticiaApi.runtimeconfig.json
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\FicticiaApi.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\FicticiaApi.pdb
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Npgsql.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\FicticiaApi.csproj.AssemblyReference.cache
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\FicticiaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\FicticiaApi.AssemblyInfoInputs.cache
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\FicticiaApi.AssemblyInfo.cs
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\FicticiaApi.csproj.CoreCompileInputs.cache
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\FicticiaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\FicticiaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\FicticiaApi.sourcelink.json
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\staticwebassets\msbuild.FicticiaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FicticiaApi.props
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FicticiaApi.props
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FicticiaApi.props
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\scopedcss\bundle\FicticiaApi.styles.css
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\Ficticia.D7BEBE09.Up2Date
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\FicticiaApi.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\refint\FicticiaApi.dll
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\FicticiaApi.pdb
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\FicticiaApi.genruntimeconfig.cache
+C:\Users\teten\OneDrive\Escritorio\Programación\BackEnd\FicticiaApi\obj\Debug\net8.0\ref\FicticiaApi.dll
